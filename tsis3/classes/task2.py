@@ -11,4 +11,4 @@ class Square(Shape):
         self.length = length
         super().__init__(area)
     def area(self):
-        return self.length * self.length
+        return self.length*self.length

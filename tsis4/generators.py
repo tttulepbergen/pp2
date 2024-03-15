@@ -2,7 +2,7 @@
 #generator
 
 def ngen(N):
-    i = 0
+    i=0
     while True:      #continues to return until the sq of N
         yield i*i
         if i == N:

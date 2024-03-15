@@ -1,6 +1,6 @@
 # Dictionary of movies
 
-movies = [
+movies =  [
 {
 "name": "Usual Suspects",
 "imdb": 7.0,

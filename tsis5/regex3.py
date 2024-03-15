@@ -3,7 +3,7 @@
 
 import re
 
-txt = input()
+txt=input()
 
 x = '[a-z_]+' 
 

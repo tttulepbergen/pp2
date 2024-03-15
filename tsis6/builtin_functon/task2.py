@@ -3,7 +3,7 @@
 
 user_input = input()
 
-lower = 0
+lower=0
 upper = 0
 
 for char in user_input:  

@@ -21,7 +21,6 @@ for x in fruits:
         break
     print(x)
 
-#Examples
 #1
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
