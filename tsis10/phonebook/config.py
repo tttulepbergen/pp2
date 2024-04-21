@@ -1,0 +1,5 @@
+host="localhost"
+database="postgres"
+user="postgres"
+password="Kumaotu75_Ni"
+port="5433"
